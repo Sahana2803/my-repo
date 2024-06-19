@@ -1,0 +1,39 @@
+body{
+
+    background-image: "C:\Users\sahan\OneDrive\Desktop\HTML tutorial\Bts purple desktop wallpaper.jpg";
+    
+}
+
+   div {
+   
+    height: 100px;
+    display:inline ;
+    background-image: "C:\Users\sahan\OneDrive\Desktop\HTML tutorial\Bts purple desktop wallpaper.jpg";
+    
+}
+#one{
+    background-color: red;
+    position: static;
+    top: 10px;
+}
+#two{
+    background-color: blue;
+    position:relative;
+    top: 10px;
+}
+#three{
+    background-color: green;
+    position:absolute;
+    right:20px;
+
+}
+#four{
+    background-color: rgb(36, 205, 251);
+    position: fixed;
+    left:200px;
+}
+#five{
+    background-color: yellow;
+    position: sticky;
+    bottom: 20px;
+}
